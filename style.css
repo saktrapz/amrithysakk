@@ -1,0 +1,100 @@
+.infor-nav a{
+    font-family: 'Merienda', cursive;
+    color: red;
+}
+.infor-header h1{
+    font-size: 53px;
+    margin-top: 60px;
+    font-family: 'Merienda', cursive;
+    font-weight: 700px;
+}
+.infor-header h4{
+    font-size: 28px;
+    margin-top: 20px;
+    font-family: 'Merienda', cursive;
+    font-weight: 500px;
+}
+infor-body p{
+    line-height: 0.8;
+    font-family: 'Merienda', cursive;
+}
+.btn{
+    background-color: red;
+    border: 0px;
+    font-family: 'Merienda', cursive;
+    font-size: 20px;
+    padding: 12px 28px;
+}
+.jumbotron{
+    background-color:whitesmoke;
+    margin-top: 50px;
+}
+.about h2{
+    font-family: 'Merienda', cursive;
+    color: red;
+    font-size: 40px;
+}
+.about p{
+    font-family: 'Merienda', cursive;
+    color: black;
+    font-size: 20px;
+}
+.about button{
+    background-color:grey;
+}
+.education h2{
+    font-family: 'Merienda', cursive;
+    color: red;
+    font-size: 40px;
+}
+.education p{
+    font-family: 'Merienda', cursive;
+    color: black;
+    font-size: 20px;
+}
+.experience h2{
+    font-family: 'Merienda', cursive;
+    color: red;
+    font-size: 40px;
+}
+.experience p{
+    font-family: 'Merienda', cursive;
+    color: black;
+    font-size: 20px;
+}
+.favorite h2{
+    font-family: 'Merienda', cursive;
+    color: red;
+    font-size: 40px;
+}
+.card{
+    background-color: whitesmoke;
+}
+.card-body{
+    font-family: 'Merienda', cursive;
+    color:black;
+    text-align: center;
+}
+.li p{
+    font-family: 'Merienda', cursive;
+    color: black;
+}
+.contact{
+    font-family: 'Merienda', cursive;
+    color: red;
+    font-size: 40px;
+}
+.form-group{
+    font-family: 'Merienda', cursive;
+    color: black;
+    font-size: 20px;
+}
+.footer{
+    font-family: 'Merienda', cursive;
+    color: #212529;
+    border-top:solid 1px;
+    border-color: red;
+}
+.footer h2{
+    font-size: 40px;
+}
